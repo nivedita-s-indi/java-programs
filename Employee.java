@@ -1,4 +1,4 @@
-package com.xworkz.map.hashmap;
+package com.xworkz.map.linkedhashmap;
 
 public class Employee {
 	
@@ -41,5 +41,5 @@ public class Employee {
 	public String toString() {
 		return "Employee [name=" + name + ", empid=" + empid + ", salary=" + salary + "]";
 	}
-	
+
 }
